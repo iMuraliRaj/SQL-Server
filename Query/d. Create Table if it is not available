@@ -1,0 +1,18 @@
+Syntax:
+
+
+IF NOT EXISTS (SELECT * FROM sysobjects WHERE name='TableName')
+    CREATE TABLE TableName 
+    (
+        ColumnName ColumnDataType
+    )
+
+
+Example:
+
+
+IF NOT EXISTS (SELECT * FROM sysobjects WHERE name='Employee')
+    CREATE TABLE Employee 
+    (
+        EMPID int
+    )
