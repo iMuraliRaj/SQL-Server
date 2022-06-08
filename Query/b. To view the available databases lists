@@ -1,5 +1,10 @@
 
 
-Query:
+Query 1:
 
 SELECT name FROM master.dbo.sysdatabases
+
+
+Query 2:
+
+EXEC sp_databases
