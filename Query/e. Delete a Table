@@ -1,0 +1,7 @@
+Syntax:
+
+drop table TableName
+
+Example:
+
+drop table Employee
