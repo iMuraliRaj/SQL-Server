@@ -1,0 +1,14 @@
+Syntax:
+
+Create table TableName
+(
+  ColumnName ColumnDataType
+)
+
+
+Example:
+
+Create table Employee
+(
+  EmpID int
+)
