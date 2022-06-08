@@ -1,1 +1,9 @@
 
+Syntax:
+
+Create database DatabaseName
+
+
+Example:
+
+Create database EmployeeManagementSystem
