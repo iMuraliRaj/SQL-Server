@@ -1,0 +1,7 @@
+Syntax:
+Alter table TableName
+Alter column ColumnName ColumnDataType
+
+Example:
+Alter table Employee
+Alter column name varchar
