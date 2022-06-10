@@ -1,0 +1,9 @@
+Syntax:
+
+Alter table TableName
+Add ColumnName ColumnDataType
+
+Example:
+
+Alter table Employee
+Add Employee AGE int
