@@ -1,0 +1,12 @@
+Syntax:
+
+Alter table TableName
+drop column ColumnName
+
+
+Example:
+
+alter table employee
+drop column id
+
+
