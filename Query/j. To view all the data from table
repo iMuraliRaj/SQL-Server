@@ -6,3 +6,7 @@ select * from TableName
 Example:
 
 select * from Employee
+
+
+* - Astrix
+It means the all table from the table
