@@ -1,0 +1,9 @@
+Syntax:
+
+Select ColumnName from TableName
+
+
+
+Example:
+
+select name from Employee
