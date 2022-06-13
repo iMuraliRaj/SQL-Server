@@ -1,0 +1,8 @@
+
+Syntax:
+
+Select count(*) from ColumnName
+
+Example:
+
+Select count(*) from Employee
