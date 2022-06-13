@@ -6,5 +6,5 @@
 6. Not equal (<>)
 7. Between : Between a certain range
     Example: SELECT * FROM Products WHERE Price BETWEEN 50 AND 60;
-      
-      
+8. LIKE	: Search for a pattern    
+    Example: SELECT * FROM Customers WHERE City LIKE '%s%';
