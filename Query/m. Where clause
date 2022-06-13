@@ -1,0 +1,14 @@
+The SQL WHERE Clause:
+
+   1. The WHERE clause is used to filter records.
+   2. It is used to extract only those records that fulfill a specified condition.
+   
+Note: 
+
+   The WHERRE clause is not only used in SELECT statements, it is also used in UPDATE, DELETE, etc.
+  
+
+
+Syntax:
+
+   SELECT ColumnName FROM TableName WHERE condition;
