@@ -12,3 +12,17 @@ Note:
 Syntax:
 
    SELECT ColumnName FROM TableName WHERE condition;
+   
+Example:
+   
+   Select * from Employee where EMPID='ATE186'
+
+
+
+Text Fields vs. Numeric Fields:
+
+   SQL requires single quotes around text values (most database systems will also allow double quotes).
+
+   However, numeric fields should not be enclosed in quotes:
+   
+   SELECT * FROM Customers WHERE CustomerID=1;   
