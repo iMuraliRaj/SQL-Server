@@ -1,12 +1,20 @@
 1. Equal (=)
+
 2. Greater than (>)
+
 3. Less than (<)
+
 4. Greater than or equal (>=)
+
 5. Less than or equal (<=)
+
 6. Not equal (<>)
+
 7. Between : Between a certain range
     Example: SELECT * FROM Products WHERE Price BETWEEN 50 AND 60;
+    
 8. LIKE	: Search for a pattern    
     Example: SELECT * FROM Customers WHERE City LIKE '%s%';
+    
 9. IN - specify multiple possible values for a column 
     Example: SELECT * FROM Customers WHERE City IN ('Paris','London');
