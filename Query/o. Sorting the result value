@@ -16,3 +16,9 @@ Example:
 
 3. We can sort the result by multiple columns
  Select * from Employee order by EmployeeID, EmployeeName 
+
+
+
+Note:
+  For, Ascending order we no need to specify the expression.
+  By default it is assigned as Ascending order.
