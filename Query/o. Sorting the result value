@@ -18,6 +18,9 @@ Example:
  Select * from Employee order by EmployeeID, EmployeeName 
 
 
+4. We can sort the result by multiple column and different expression to each column
+ Select * from Employee order by EmployeeID ASC, EmployeeName DESC
+
 
 Note:
   For, Ascending order we no need to specify the expression.
