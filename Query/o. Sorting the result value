@@ -25,3 +25,9 @@ Example:
 Note:
   For, Ascending order we no need to specify the expression.
   By default it is assigned as Ascending order.
+
+5. Sort by ordinal positions of columns
+  Select * from TableName order by PositionNumberOfColumn
+  
+Example:
+  Select * from Employee order by 1 
