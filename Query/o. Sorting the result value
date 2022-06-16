@@ -1,2 +1,4 @@
-ORDER BY:
-We can sort the result value by using ORDER BY clause.
+Sorting :
+ 1. We can sort the result value by using ORDER BY clause.
+ 2. We can do both Ascending and Descending order of the data
+
