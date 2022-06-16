@@ -12,3 +12,7 @@ ORDER BY
  
 Example:
  Select * from Employee order by EmployeeID ASC/DESC
+
+
+3. We can sort the result by multiple columns
+ Select * from Employee order by EmployeeID, EmployeeName 
