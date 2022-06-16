@@ -3,7 +3,12 @@ Sorting :
  2. We can do both Ascending and Descending order of the data
 
 Syntax:
- Select * from TableName order by ColumnName ASC/DESC
+SELECT 
+    select_list
+FROM
+    table_name
+ORDER BY 
+    column_name | expression [ASC | DESC ];
  
 Example:
  Select * from Employee order by EmployeeID ASC/DESC
