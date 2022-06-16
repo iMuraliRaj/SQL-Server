@@ -3,7 +3,7 @@ Sorting :
  2. We can do both Ascending and Descending order of the data
 
 Syntax:
- Select * from TableName order by ColumnName
+ Select * from TableName order by ColumnName ASC/DESC
  
 Example:
- Select * from Employee order by EmployeeID
+ Select * from Employee order by EmployeeID ASC/DESC
