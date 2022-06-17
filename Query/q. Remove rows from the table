@@ -6,5 +6,8 @@ DELETE:
  Syntax:
  delete from TableName
  
- Example:
+ Example 1:
  delete from Employee
+
+ Example 2:
+ delete from Employee where EMPID='ATE186'
