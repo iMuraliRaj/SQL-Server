@@ -1,6 +1,9 @@
 Truncate:
 
-    The TRUNCATE TABLE statement is used to delete the data inside a table, but not the table itself.
+    1. The TRUNCATE TABLE statement is used to delete the data inside a table, but not the table itself.
+    2. It can not used with where clause
+    3. It locks the entire table
+    4. We can not rolback the changes
 
 
 Syntax:
