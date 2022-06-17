@@ -1,1 +1,6 @@
 We can rename the table name using Exec_sprename 
+
+
+Syntax:
+  Exec sp_rename 'OldName', 'NewName'
+  
