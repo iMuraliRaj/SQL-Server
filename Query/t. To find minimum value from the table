@@ -1,0 +1,11 @@
+MIN():
+
+  The MIN() function returns the smallest value of the selected column.
+
+Syntax:
+
+  SELECT MIN(ColumnName) FROM TableName
+
+Example:
+
+  SELECT MIN(age) from Employee
