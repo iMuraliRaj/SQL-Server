@@ -3,4 +3,6 @@ DELETE:
  1. The DELETE statement is used to delete the rows from the table.
  2. We can remove particular rows by using WHERE condition.
  
-
+ Syntax:
+ delete from TableName
+ 
