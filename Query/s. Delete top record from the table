@@ -4,9 +4,12 @@ DELETE TOP:
 
 
 SYNTAX:
-  
-   DELETE [ TOP ( number ) [ PERCENT ] ]  FROM TableName [WHERE SearchCondition]
-   
+
+Number: DELETE TOP number PERCENT FROM TableName
+Percentage: DELETE TOP 10 PERCENT FROM TableName
+
+
 Example:
   
-   DELETE Top(5) from Employee 
+Number:  DELETE TOP 10 FROM Employee;  
+Percentage: DELETE TOP 10 PERCENT FROM Employee;
