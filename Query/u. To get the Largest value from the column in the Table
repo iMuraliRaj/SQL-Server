@@ -1,0 +1,11 @@
+MAX():
+
+  The MAX() function returns the largest value of the selected column from the Table.
+
+Syntax:
+
+  SELECT MAX(ColumnName) FROM TableName
+
+Example:
+
+  SELECT MAX(age) from Employee
