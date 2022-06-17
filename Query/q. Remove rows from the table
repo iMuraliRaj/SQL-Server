@@ -6,3 +6,5 @@ DELETE:
  Syntax:
  delete from TableName
  
+ Example:
+ delete from Employee
