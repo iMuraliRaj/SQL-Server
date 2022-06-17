@@ -3,3 +3,10 @@ DELETE TOP:
   We can delete the top of rows from the table by using DELETE TOP clause.
 
 
+SYNTAX:
+  
+   DELETE [ TOP ( number ) [ PERCENT ] ]  FROM TableName [WHERE SearchCondition]
+   
+Example:
+  
+   DELETE Top(5) from Employee 
